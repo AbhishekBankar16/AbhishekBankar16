@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Bankar
-- 👀 I’m interested in web and java development.
+- 👀 I’m interested in Python development.
 - 🌱 I’m currently learning TE(IT)Engineering
 - 💞️ I’m looking to collaborate on new software projects.
 - 📫 Gmail:-abhishekbankar9322@gmail.com
