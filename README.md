@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Bankar
 - 👀 I’m interested in Python development.
-- 🌱 I’m currently learning TE(IT)Engineering
+- 🌱 I’m currently learning BE(IT)Engineering
 - 💞️ I’m looking to collaborate on new software projects.
 - 📫 Gmail:-abhishekbankar9322@gmail.com
 
